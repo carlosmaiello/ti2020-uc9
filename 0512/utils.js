@@ -17,4 +17,8 @@ function imprime10() {
     }
 }
 
-module.exports = { saudacao, imprime10, tabuada }
+function imc(peso, altura) {
+
+}
+
+module.exports = { saudacao, imprime10, tabuada, imc }
